@@ -1,0 +1,46 @@
+body {
+  background-color: #FFFFF7;
+  color: #333333;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+article {
+  border-width: thin;
+  border-color: #6E6E6E;
+  border-style: solid;
+  height: auto;
+  width: 30rem;
+  background-color: #F79F81;
+  margin-top: 1.4rem;
+  margin-left: 15%;
+}
+
+#strikethrough {
+  text-decoration: line-through;
+}
+
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#green {
+  color: green;
+}
+footer {
+  margin-left: 15%;
+}
